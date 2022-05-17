@@ -1,15 +1,16 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 5
+
 
 # Homework 
-```Ödev```
-
+#### Ödev 1: 
+- Reduce metodunu kullanarak verilen data içerisindeki kişilerin isimlerinin baş harfine göre gruplandırılması
+#### Ödev 2: 
+- Reduce methodunu kullanarak aynı şehirdeki insanların gruplandırılması.
 
 ## Homework Description
-
-```Ödev Açıklaması ```
+- Verilen ödevler reduce methodu kullanılarak tamamlanmıştır.
 
 
 ## Author
 
-```Ödevi yapan```
+- Ahmet KARABUDAK
